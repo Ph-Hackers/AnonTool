@@ -21,7 +21,7 @@
     $ apt install python3
     $ git clone https://github.com/Ph-Hackers/AnonTool
     $ cd AnonTool
-    $ pip3 install -r requirements.txt
+    $ pip3 install requests
     $ python3 tool.py
     
     
