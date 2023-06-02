@@ -16,9 +16,12 @@
 
 ## INSTALLATION & USAGE
     
-    $ apt update && apt upgrade   
+    $ apt update
+    $ apt install git
+    $ apt install python3
     $ git clone https://github.com/Ph-Hackers/AnonTool
     $ cd AnonTool
+    $ pip3 install -r requirements.txt
     $ python3 tool.py
     
     
