@@ -1,45 +1,25 @@
 ## ALL IN ONE HACKING TOOLKIT FOR NOOBZ
 ![FIRST RUN OF MY TOOL](https://github.com/Ph-Hackers/ss/blob/main/11.jpg)
-#
-## LOGIN METHODS
-- [x] NORMAL LOGIN
+
 
 ## AVAILABLE FEATURES
-- [x] Facebook friend info fetcher
-- [x] Get ID from friend
-- [x] Get ID friend from friend
-- [x] Get group member ID
-- [x] Get email friend
-- [x] Get email friend from friend
-- [x] Get a friend's phone number
-- [x] Get a friend's phone number from friend
-- [x] Mini Hack Facebook(Target)
-- [x] Multi Bruteforce Facebook
-- [x] Super Multi Bruteforce Facebook
-- [x] BruteForce(Target)
-- [x] Yahoo Checker(Deprecated)
-- [x] Bot Reactions Target Post
-- [x] Bot Reactions group Post
-- [x] BOT COMMENT Target Post
-- [x] BOT COMMENT group Post
-- [x] Mass delete Post
-- [x] Mass accept friends
-- [x] Mass delete friend
-- [x] ACreate Post
-- [x] Create Wordlist
-- [x] Account Checker 
-- [x] See my group list
-- [x] Profile Guard
-- [x] DDoS
-- [x] Reverse IP Look UP
+- [x] Layer 7 DDoS Tool
+- [x] Port Scan
+- [x] Wifi DDoS
+- [x] Sql Injection Tool
+- [x] Facebook Profile Lock
+- [x] Facebook Account Bruter(NEW)
+- [x] Camera Hack (Front/Back)
+- [x] Phishing
+- [x] CCTV Exploit
+
 
 ## INSTALLATION & USAGE
-
-    $ git clone https://github.com/Ph-Hackers/FBTOOL
     
-    $ cd FBTOOL
-
-    $ python3 fbtool.py
+    $ apt update && apt upgrade   
+    $ git clone https://github.com/Ph-Hackers/AnonTool
+    $ cd AnonTool
+    $ python3 tool.py
+    
     
    
-#
